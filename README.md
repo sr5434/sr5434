@@ -20,3 +20,40 @@ You can click the Preview link to take a look at your changes.
  - [Rewrite AI](https://rewrite-ai.vercel.app/) rewrites text for you with AI.
  - [Auto Test Writer](https://auto-test-writer.vercel.app/) writes Jest/Unittest tests for you.
  - [Portifolio Maker](https://portifolio-maker.web.app/) creates you a portifolio website from a template.
+## Tech I've Used
+Major things in my tech stack(not all of these have been used in projects that I've published).
+### AI/ML
+- Pinccone DB
+- Tensorflow
+- Pytorch
+- Transformers
+- Keras
+- Diffusers
+- Accelerate
+- Deepspeed
+### REST APIs
+- GitHub API
+- Azure Cognitive Services
+- Facebook Messenger API
+- OpenAI API
+- Cohere API
+### Web Dev
+- TailwindCSS
+- React
+- Next.js
+- Node.js
+- Angular
+- Jekyll
+- Clerk
+### Databases
+- Microsoft SQL Server
+- Oracle DB(21c)
+- Firebase
+- Pinecone DB(I am aware that this is duplicate)
+### App Dev
+- Alexa Skills Kit
+- Android Kotlin SDK
+- iOS Swift SDK
+### Math
+- Matlab
+- Mathematica
