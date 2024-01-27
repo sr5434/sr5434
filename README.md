@@ -57,3 +57,5 @@ Major things in my tech stack(not all of these have been used in projects that I
 ### Math
 - Matlab
 - Mathematica
+### Quantum Computing
+- IBM Quantum Composer
