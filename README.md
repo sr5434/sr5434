@@ -10,8 +10,7 @@
 <!---
 sr5434/sr5434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
+---> 
 ## My Apps
  - [Weather App](https://weather-app-taupe-seven.vercel.app/) tells you the weather in any city.
  - [Minilink](https://minilink-rosy.vercel.app/) shortens links for you.
@@ -22,6 +21,7 @@ You can click the Preview link to take a look at your changes.
  - [Portifolio Maker](https://portifolio-maker.web.app/) creates you a portifolio website from a template.
 ## Tech I've Used
 Major things in my tech stack(not all of these have been used in projects that I've published).
+
 ### AI/ML
 - Pinccone DB
 - Tensorflow
