@@ -35,10 +35,12 @@ Major things in my tech stack(not all of these have been used in projects that I
 - GitHub API
 - Azure Cognitive Services
 - Facebook Messenger API
+- Facebook Pages API
 - OpenAI API
 - Cohere API
 ### Web Dev
 - TailwindCSS
+- Flask
 - React
 - Next.js
 - Node.js
@@ -58,4 +60,4 @@ Major things in my tech stack(not all of these have been used in projects that I
 - Matlab
 - Mathematica
 ### Quantum Computing
-- IBM Quantum Composer
+- Qiskit(running on an IBM Eagle r3 processor)
