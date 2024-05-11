@@ -50,7 +50,6 @@ Major things in my tech stack(not all of these have been used in projects that I
 - Clerk
 ### Databases
 - Microsoft SQL Server
-- Oracle DB(21c)
 - Firebase
 - Pinecone DB(I am aware that this is duplicate)
 ### App Dev
