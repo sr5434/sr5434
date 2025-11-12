@@ -1,6 +1,6 @@
 # Samir's Github
 - 👋 Hi, I’m @sr5434
-- 👀 I’m interested in AI/ML, Robotics, and coding in general
+- 👀 I’m interested in AI/ML, Physics, and coding in general
 - 🔧 Currently working on: open source contributions; AI
 - 🤗 My HuggingFace username is the same as my GitHub username.
 - ✉️ To reach me, DM me on Instagram
